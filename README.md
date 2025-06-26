@@ -8,17 +8,16 @@
 
 ## 👨‍💼 About Me
 
-- 🚀 Currently working at **Monocept** on an insurance-based microservices platform (MPro).
-- ⚙️ Focused on Spring Boot, MongoDB, Redis, Angular, GCP, AWS and scalable backend architecture.
-- 🧠 Practicing **SOLID principles**, Clean Architecture, and Blue-Green deployment patterns.
-- 💬 Ask me about: Java, Spring Boot, MongoDB, MySQL, Redis, Angular, Microservices, CI/CD.
-- Also Experince in writing with solid principles and Sonar free issues.
-- Also Having full stack developer experince of 2.9 with java,springboot and angular
-- 📫 Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
+- 🚀 &nbsp;**Software Engineer @ Monocept**, currently working on **MPro**, an insurance-based microservices platform.
+- ⚙️ &nbsp;Focused on **Spring Boot**, **MongoDB**, **Redis**, **Angular**, **GCP**, **AWS**, and scalable backend architectures.
+- 🧠 &nbsp;Practicing **SOLID principles**, **Clean Architecture**, and **Blue-Green deployment** strategies.
+- ✅ &nbsp;Code quality advocate — writing clean, maintainable code with **SonarQube zero-issue compliance**.
+- 💻 &nbsp;**2.9+ years** of hands-on **Full Stack Development** experience with **Java**, **Spring Boot**, and **Angular**.
+- 💬 &nbsp;Ask me about: `Java`, `Spring Boot`, `MongoDB`, `MySQL`, `Redis`, `Angular`, `Microservices`, `CI/CD`.
+- 📫 &nbsp;Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
+
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
