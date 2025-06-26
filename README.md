@@ -67,7 +67,6 @@
 ---
 
 ## 📫 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sriram-sai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
