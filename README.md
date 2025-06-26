@@ -1,8 +1,13 @@
-# 👋 Hi, I'm Sriram Sai Pratti
+<h1 align="center">Hi&nbsp;there, I’m <strong>Sriram Sai Pratti</strong> 👋</h1>
 
-**Software Engineer | Java & Spring Boot | Microservices | Angular | GCP | AWS**
+<p align="center">
+  <strong>Software Engineer&nbsp;|&nbsp;Java&nbsp;&amp;&nbsp;Spring Boot&nbsp;|&nbsp;Microservices&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Cloud&nbsp;(AWS&nbsp;&amp;&nbsp;GCP)</strong>
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=00BFFF&width=435&lines=Software+Engineer;Microservices+Developer;Spring+Boot+%7C+Java+%7C+Angular;Clean+Code+%7C+SOLID+%7C+Scalable+Systems)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&pause=700&multiline=true&lines=Crafting+Scalable+Microservices;Clean+Code+%7C+SOLID+%26+Design+Patterns;CI%2FCD+and+DevOps+Enthusiast;Lifelong+Learner+%26+Tech+Mentor" alt="Typing SVG">
+</p>
+
 
 ---
 
