@@ -20,40 +20,43 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+## 🛠️ Tech Stack
+
+<div align="center" style="display:flex; flex-wrap:wrap; gap:20px;">
 
   <!-- Languages -->
-  <img title="Java"             alt="Java"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <span style="display:inline-block; width:50px;"></span>
-  <img title="JavaScript"       alt="JavaScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 15px,margin-right: 12px;,"/>
-  <img title="TypeScript"       alt="TypeScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
+  <img title="Java"          alt="Java"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"          width="48" height="48"/>
+  <img title="JavaScript"    alt="JavaScript"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/>
+  <img title="TypeScript"    alt="TypeScript"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/>
 
   <!-- Frameworks -->
-  <img title="Spring Boot"      alt="Spring Boot"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"       width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Angular"          alt="Angular"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="React"            alt="React"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"         width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Node.js"          alt="Node.js"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"        width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Hibernate"        alt="Hibernate"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg"    width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
+  <img title="Spring Boot"   alt="Spring Boot"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"      width="48" height="48"/>
+  <img title="Angular"       alt="Angular"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48"/>
+  <img title="React"         alt="React"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"        width="48" height="48"/>
+  <img title="Node.js"       alt="Node.js"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"       width="48" height="48"/>
+  <img title="Hibernate"     alt="Hibernate"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg"   width="48" height="48"/>
 
   <!-- Databases -->
-  <img title="MySQL"            alt="MySQL"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"          width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="MongoDB"          alt="MongoDB"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"      width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
- 
+  <img title="MySQL"         alt="MySQL"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"         width="48" height="48"/>
+  <img title="MongoDB"       alt="MongoDB"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"     width="48" height="48"/>
+  <img title="DynamoDB"      alt="DynamoDB"      src="https://raw.githubusercontent.com/kreuzwerker/terraform-provider-dynamodb/master/assets/dynamodb.png" width="48" height="48"/>
+
   <!-- Cloud / DevOps -->
-  <img title="AWS"              alt="AWS"              src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg"                     width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="GCP"              alt="GCP"              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Docker"           alt="Docker"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"       width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Jenkins"          alt="Jenkins"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"     width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="GitLab"           alt="GitLab"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"       width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Redis"            alt="Redis"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"         width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Kibana"           alt="Kibana"           src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kibana.svg"                        width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
+  <img title="AWS"           alt="AWS"           src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg"                    width="48" height="48"/>
+  <img title="Google Cloud"  alt="GCP"           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/>
+  <img title="Docker"        alt="Docker"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"      width="48" height="48"/>
+  <img title="Jenkins"       alt="Jenkins"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"    width="48" height="48"/>
+  <img title="GitLab"        alt="GitLab"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"      width="48" height="48"/>
+  <img title="Redis"         alt="Redis"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"        width="48" height="48"/>
+  <img title="Kibana"        alt="Kibana"        src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kibana.svg"                       width="48" height="48"/>
 
   <!-- Tools -->
-  <img title="Maven"            alt="Maven"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="Postman"          alt="Postman"          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"                      width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="VS Code"          alt="VS Code"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"        width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="IntelliJ IDEA"    alt="IntelliJ IDEA"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"    width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
-  <img title="STS (Spring Tool Suite)" alt="STS"       src="https://spring.io/img/favicon.ico"                                                     width="40" height="40" style="margin: 15px,margin-right: 12px;"/>
+  <img title="Maven"         alt="Maven"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48"/>
+  <img title="Gradle"        alt="Gradle"        src="https://gradle.org/images/gradle-phantom.png"                                            width="48" height="48"/>
+  <img title="Postman"       alt="Postman"       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"                       width="48" height="48"/>
+  <img title="VS Code"       alt="VS Code"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"         width="48" height="48"/>
+  <img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"    width="48" height="48"/>
+  <img title="STS"           alt="STS"           src="https://spring.io/img/favicon.ico"                                                      width="48" height="48"/>
 
 </div>
 
