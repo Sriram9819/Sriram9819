@@ -24,6 +24,7 @@
 
   <!-- Languages -->
   <img title="Java"             alt="Java"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           width="40" height="40" style="margin: 15px"/>
+  <span style="font-size: 24px; font-weight: bold; margin: 0 10px;">|</span>
   <img title="JavaScript"       alt="JavaScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 15px"/>
   <img title="TypeScript"       alt="TypeScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 15px"/>
 
