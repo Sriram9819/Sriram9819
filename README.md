@@ -12,6 +12,7 @@
 - ⚙️ Focused on Spring Boot, MongoDB, Redis, Angular, GCP, AWS and scalable backend architecture.
 - 🧠 Practicing **SOLID principles**, Clean Architecture, and Blue-Green deployment patterns.
 - 💬 Ask me about: Java, Spring Boot, MongoDB, MySQL, Redis, Angular, Microservices, CI/CD.
+- Also Experince in writing with solid principles and Sonar free issues.
 - 📫 Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
 
 ---
