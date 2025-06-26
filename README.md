@@ -15,6 +15,8 @@
 - ✅ &nbsp;Code quality advocate — writing clean, maintainable code with **SonarQube zero-issue compliance**.
 - 💻 &nbsp;**2.9+ years** of hands-on **Full Stack Development** experience with **Java**, **Spring Boot**, and **Angular**.
 - 💬 &nbsp;Ask me about: `Java`, `Spring Boot`, `MongoDB`, `MySQL`, `Redis`, `Angular`, `Microservices`, `CI/CD`.
+- 🤝 Team collaborator with a keen eye for detail, a commitment to continuous learning, and a passion for building impactful software.
+
 - 📫 &nbsp;Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
 
 
