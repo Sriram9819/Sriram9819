@@ -35,9 +35,10 @@
 ### 🔐 MPro – Insurance Proposal System
 > Max Life Insurance platform with 6-stage modular flow from customer onboarding to policy payment.
 
-- 🧱 Services: Customer, Product, Personal Info, Lifestyle, Verification, Payment
-- 🔑 Features: OTP login via Redis, PAN/DOB search, MongoDB nested filtering
-- ☁️ Infra: Redis, MongoDB, AWS S3, Jenkins CI, Blue-Green deployment
+- 🧱 **Project Overview:**
+  The MPro application is a modular, stage-based insurance platform used by Max Life Insurance to streamline policy creation. It is structured into six distinct stages, each representing a critical step in the proposal lifecycle:Each stage is treated as a milestone in the policy proposal flow, and the application ensures data persistence and validation at every level to support secure, seamless progression from lead capture to policy issuance.
+- 🔑 Features: Creating a policy as the customer needs.
+- 🌐 stack: Java 21, Springboot, ReactJs, NodeJS
 
 ---
 
@@ -50,7 +51,7 @@
 ---
 
 ### 💼 SWARMHR – Cloud-based HRMS Platform
-> Comprehensive solution for HR, payroll, accounting, and employee lifecycle management.
+> Comprehensive solution for HR, payroll, accounting,Tiemsheet Management, leave cycle,onboarding details,Exit Management and employee lifecycle management.
 
 - 🔧 Full stack: Java, Angular 14, Solr, GCP, MySQL
 - 📊 Roles: Dev, Database optimization, CI/CD deployment, Production support
