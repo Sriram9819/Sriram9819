@@ -24,7 +24,8 @@
 
   <!-- Languages -->
   <img title="Java"             alt="Java"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           width="40" height="40" style="margin: 15px"/>
-<img alt="separator" src="https://img.icons8.com/ios-glyphs/30/cccccc/ellipse-stroked.png" width="12" style="margin: 0 10px;"/>
+<img alt="separator" src="![image](https://github.com/user-attachments/assets/2428f064-36be-4696-899b-686f806a0657)
+" width="12" style="margin: 0 10px;"/>
   <img title="JavaScript"       alt="JavaScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 15px"/>
   <img title="TypeScript"       alt="TypeScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 15px"/>
 
