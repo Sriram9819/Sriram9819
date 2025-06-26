@@ -7,3 +7,7 @@
 - 🔭 Current: Working on architect-level microservice tasks
 - 🌱 Learning: Cutting-edge CI/CD and automated testing
 - 📫 Reach me: sriram2747@gmail.com
+
+
+ Tech Stack
+Java  Spring Boot  MongoDB  MySQL  Redis  React  JavaScript  Git  SOLID Principles  Agile
