@@ -121,12 +121,19 @@
 </details>
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sriram9819&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram9819&layout=compact)
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Sriram9819&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram9819&layout=compact&theme=tokyonight" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sriram9819&theme=tokyonight&hide_border=false" width="96%" />
+
+</div>
+
 
 ## 📫 Connect With Me
 
