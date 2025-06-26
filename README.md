@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Sriram9819
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Sriram 👋
 
-<!---
-Sriram9819/Sriram9819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Engineer | Java • AWS • Microservices**
+
+- 🧰 Tech: Spring Boot, Hibernate, JPA, Angular, React, Redis, MongoDB, AWS, GCP
+- 💼 3.5+ years in HRMS, ATS & Insurance platforms
+- 🔭 Current: Working on architect-level microservice tasks
+- 🌱 Learning: Cutting-edge CI/CD and automated testing
+- 📫 Reach me: sriram2747@gmail.com
