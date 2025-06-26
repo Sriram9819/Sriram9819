@@ -68,8 +68,17 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sriram-sai)
-- 💻 [GitHub](https://github.com/Sriram9819)
-- ✉️ Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sriram-sai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Sriram9819" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:sriram2747@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
 
 ---
