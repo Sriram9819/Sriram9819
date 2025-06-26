@@ -37,8 +37,7 @@
   <!-- Databases -->
   <img title="MySQL"            alt="MySQL"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"          width="40" height="40" style="margin: 15px"/>
   <img title="MongoDB"          alt="MongoDB"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"      width="40" height="40" style="margin: 15px"/>
-  <img title="DynamoDB"         alt="DynamoDB"         src="https://raw.githubusercontent.com/kreuzwerker/terraform-provider-dynamodb/master/assets/dynamodb.png" width="40" height="40" style="margin: 15px"/>
-
+ 
   <!-- Cloud / DevOps -->
   <img title="AWS"              alt="AWS"              src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg"                     width="40" height="40" style="margin: 15px"/>
   <img title="GCP"              alt="GCP"              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" style="margin: 15px"/>
@@ -50,7 +49,6 @@
 
   <!-- Tools -->
   <img title="Maven"            alt="Maven"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40" height="40" style="margin: 15px"/>
-  <img title="Gradle"           alt="Gradle"           src="https://gradle.org/images/gradle-phantom.png"                                           width="40" height="40" style="margin: 15px"/>
   <img title="Postman"          alt="Postman"          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"                      width="40" height="40" style="margin: 15px"/>
   <img title="VS Code"          alt="VS Code"          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"        width="40" height="40" style="margin: 15px"/>
   <img title="IntelliJ IDEA"    alt="IntelliJ IDEA"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"    width="40" height="40" style="margin: 15px"/>
