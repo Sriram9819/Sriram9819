@@ -62,7 +62,7 @@
 
 ### 🔐 **MPro – Insurance Proposal System**
 <details>
-  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
+  <summary><strong> Quick&nbsp;Overview</strong></summary>
 
   **Max Life Insurance** platform with a **6-stage modular flow** from lead capture to policy issuance.  
   <br/>
@@ -89,7 +89,7 @@
 
 ### 🧾 **Applicant Tracking System (ATS)**
 <details>
-  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
+  <summary><strong>Quick&nbsp;Overview</strong></summary>
 
   End-to-end platform to **ingest resumes, automate workflows, and manage interview life-cycles**.
 
@@ -106,7 +106,7 @@
 
 ### 💼 **SWARMHR – Cloud-based HRMS**
 <details>
-  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
+  <summary><strong>Quick&nbsp;Overview</strong></summary>
 
   **One-stop HR suite** covering payroll, timesheets, leave, onboarding, and exit workflows for SMBs.
 
