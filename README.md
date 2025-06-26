@@ -58,33 +58,68 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔐 MPro – Insurance Proposal System
-> Max Life Insurance platform with 6-stage modular flow from customer onboarding to policy payment.
+### 🔐 **MPro – Insurance Proposal System**
+<details>
+  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
 
-- 🧱 **Project Overview:**
-  The MPro application is a modular, stage-based insurance platform used by Max Life Insurance to streamline policy creation. It is structured into six distinct stages, each representing a critical step in the proposal lifecycle:Each stage is treated as a milestone in the policy proposal flow, and the application ensures data persistence and validation at every level to support secure, seamless progression from lead capture to policy issuance.
-- 🔑 Features: Creating a policy as the customer needs.
-- 🌐 stack: Java 21, Springboot, ReactJs, NodeJS
+  **Max Life Insurance** platform with a **6-stage modular flow** from lead capture to policy issuance.  
+  <br/>
 
----
+  | Stage | Purpose |
+  | :---: | --- |
+  | ① **Customer** | Core identity & contact info |
+  | ② **Product**  | Plan & rider selection |
+  | ③ **Personal** | DOB, address, nominee |
+  | ④ **Lifestyle**| Hobbies, habits, risk factors |
+  | ⑤ **Verification** | Docs, OTP, underwriting |
+  | ⑥ **Payment** | Gateway integration & receipts |
 
-### 🧾 Applicant Tracking System (ATS)
-> Platform to track resumes, automate workflows, and manage interview lifecycles.
+  **Key Highlights**
+  - 🔑 *Policy‐on-demand* creation & retrieval  
+  - 🔒 OTP login via **Redis** (three-attempt throttle)  
+  - ⚡ Asynchronous APIs for high concurrency  
+  - 🟢 Blue-green deployments with feature flags  
 
-- 🌐 Stack: Java, Spring Boot, Angular, Google Cloud, MySQL
-- 🛠️ Features: Resume parsing, status workflow, REST APIs, user dashboards
+  **Tech Stack**  
+  <code>Java 21</code> &nbsp;•&nbsp; <code>Spring Boot</code> &nbsp;•&nbsp; <code>React JS</code> &nbsp;•&nbsp; <code>Node JS</code> &nbsp;•&nbsp; <code>MongoDB</code> &nbsp;•&nbsp; <code>Redis</code>
+</details>
 
----
 
-### 💼 SWARMHR – Cloud-based HRMS Platform
-> Comprehensive solution for HR, payroll, accounting,Tiemsheet Management, leave cycle,onboarding details,Exit Management and employee lifecycle management.
+### 🧾 **Applicant Tracking System (ATS)**
+<details>
+  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
 
-- 🔧 Full stack: Java, Angular 14, Solr, GCP, MySQL
-- 📊 Roles: Dev, Database optimization, CI/CD deployment, Production support
+  End-to-end platform to **ingest resumes, automate workflows, and manage interview life-cycles**.
 
----
+  **Key Features**
+  - 📄 **Resume parsing** + candidate deduplication  
+  - 🔄 Status pipelines (Applied → Offer → Hired)  
+  - 📊 Recruiter dashboards & analytics  
+  - 🔗 RESTful APIs for job-board integrations  
+
+  **Tech Stack**  
+  <code>Java</code> • <code>Spring Boot</code> • <code>Angular 14</code> • <code>Google Cloud Platform</code> • <code>MySQL</code>
+</details>
+
+
+### 💼 **SWARMHR – Cloud-based HRMS**
+<details>
+  <summary><strong>▶︎ Quick&nbsp;Overview</strong></summary>
+
+  **One-stop HR suite** covering payroll, timesheets, leave, onboarding, and exit workflows for SMBs.
+
+  **My Role**
+  - 🛠️ Full-stack dev (Java + Angular)  
+  - ⚙️ DB optimisation & Solr search tuning  
+  - 🚀 CI/CD owner (Jenkins + GCP)  
+  - 👩‍💻 Prod support & performance monitoring  
+
+  **Tech Stack**  
+  <code>Java</code> • <code>Spring Boot</code> • <code>Angular 14</code> • <code>Solr</code> • <code>GCP</code> • <code>MySQL</code>
+</details>
+
 
 ## 📈 GitHub Stats
 
