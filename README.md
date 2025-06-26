@@ -130,9 +130,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram9819&layout=compact&theme=tokyonight" width="48%" />
 
 <br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sriram9819&theme=tokyonight&hide_border=false" width="96%" />
-
 </div>
 
 
