@@ -13,6 +13,7 @@
 - 🧠 Practicing **SOLID principles**, Clean Architecture, and Blue-Green deployment patterns.
 - 💬 Ask me about: Java, Spring Boot, MongoDB, MySQL, Redis, Angular, Microservices, CI/CD.
 - Also Experince in writing with solid principles and Sonar free issues.
+- Also Having full stack developer experince of 2.9 with java,springboot and angular
 - 📫 Email: [sriram2747@gmail.com](mailto:sriram2747@gmail.com)
 
 ---
@@ -20,11 +21,11 @@
 ## 🛠️ Tech Stack
 
 <!-- ───────────── Languages ───────────── -->
-<p align="left">
+<div align="left">
   <img title="Java"             alt="Java"             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           width="40" height="40" style="margin: 8px"/>
   <img title="JavaScript"       alt="JavaScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 8px"/>
   <img title="TypeScript"       alt="TypeScript"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" style="margin: 8px"/>
-</p>
+</div>
 
 <!-- ───────────── Frameworks ───────────── -->
 <p align="left">
