@@ -4,10 +4,6 @@
   <strong>Software Engineer&nbsp;|&nbsp;Java&nbsp;&amp;&nbsp;Spring Boot&nbsp;|&nbsp;Microservices&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Cloud&nbsp;(AWS&nbsp;&amp;&nbsp;GCP)</strong>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&pause=700&multiline=true&lines=Crafting+Scalable+Microservices;Clean+Code+%7C+SOLID+%26+Design+Patterns;CI%2FCD+and+DevOps+Enthusiast;Lifelong+Learner+%26+Tech+Mentor" alt="Typing SVG">
-</p>
-
 
 ---
 
