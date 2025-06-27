@@ -142,7 +142,14 @@
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
+
+  <!-- Protofolio -->
+    <a href="https://sriramprotofolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
+
+
 ---
 
 
