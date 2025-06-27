@@ -165,5 +165,7 @@
 ---
 
 
-> 💡 “Programs must be written for people to read, and only incidentally for machines to execute.”  
+<p align="right">
+  > 💡 “Programs must be written for people to read, and only incidentally for machines to execute.”  
 > — *Harold Abelson*
+</p>
