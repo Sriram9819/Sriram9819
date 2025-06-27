@@ -28,15 +28,19 @@
 
 ⚙️ Frameworks & Libraries
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;"> <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/> <img title="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="48" height="48"/> <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/> <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48"/> <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/> </div>
+<br/>
 
 🗃️ Databases
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;"> <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/> <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48"/> <img title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48"/> <img title="Solr" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48"/> </div>
+<br/>
 
 ☁️ Cloud & DevOps
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;"> <img title="AWS" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="48" height="48"/> <img title="Google Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48"/> <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48"/> <img title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48"/> <img title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48"/> <img title="Kibana" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kibana.svg" width="48" height="48"/> </div>
+<br/>
 
 🧰 Tools & IDEs
 <div align="left" style="display:flex; flex-wrap:wrap; gap:20px;"> <img title="Maven" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48"/> <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48"/> <img title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> <img title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/> <img title="STS" src="https://spring.io/img/favicon.ico" width="48" height="48"/> </div>
+<br/>
 
 ---
 
