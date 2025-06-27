@@ -4,6 +4,9 @@
   <strong>Software Engineer&nbsp;|&nbsp;Java&nbsp;&amp;&nbsp;Spring Boot&nbsp;|&nbsp;Microservices&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Cloud&nbsp;(AWS&nbsp;&amp;&nbsp;GCP)</strong>
 </p>
 
+### 📄 Résumé
+[![Resume](https://img.shields.io/badge/Download%20My-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](./assets/Sriram_Sai_Pratti_Resume.pdf)
+
 
 ---
 
