@@ -144,9 +144,10 @@
   </a>
 
   <!-- Protofolio -->
+  </a>
     <a href="https://sriramprotofolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
-  </a>
+  </>
 </p>
 
 
